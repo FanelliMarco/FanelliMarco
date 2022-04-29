@@ -14,14 +14,34 @@
   <div align="center">
     <img src="./images/donut.gif" width="600" height="300"/>
   </div>
-  ---
-  
-  ### :woman_technologist: About Me :
-  I am an computer science student who has always been passionate about programming,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"     width="30"> from Italy.
 </div>
+---
+  
+  ### 👨‍🎓 About Me :
+  I am an computer science student who has always been passionate about programming,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"     width="30"> from Italy.
+  - 🔭 My goals: Artificial Intelligence , Security
+  - 🌱 I am currently exploring Github
+  - ⚡ In my free time i like to keep track of my personal objectives and learn new stuff.
+  - 📫 How to reach me: ![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge)
 
+---
 
-### Hi there 👋
+### 🛠️ Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/latex/latex-original.svg" title="LaTex" **alt="LaTex" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" **alt="Apache" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupiter" **alt="Jupiter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupiter" **alt="Jupiter" width="40" height="40"/>
+  
+</div>
 
 <!--
 **FanelliMarco/FanelliMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
