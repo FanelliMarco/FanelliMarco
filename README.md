@@ -23,7 +23,7 @@ I am an computer science student who has always been passionate about programmin
   - 🔭 My goals: Artificial Intelligence , Security
   - 🌱 I am currently exploring Github
   - ⚡ In my free time i like to keep track of my personal objectives and learn new stuff.
-  - 📫 How to reach me: ![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge)
+  - 📫 How to reach me: ![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge")
 
 ---
 
