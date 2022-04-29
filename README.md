@@ -17,6 +17,7 @@
 </div>
 ---
   ### 👨‍🎓 About Me :
+  
   I am an computer science student who has always been passionate about programming,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"     width="30"> from Italy.
   - 🔭 My goals: Artificial Intelligence , Security
   - 🌱 I am currently exploring Github
