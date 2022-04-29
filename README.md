@@ -16,7 +16,6 @@
   </div>
 </div>
 ---
-  
   ### 👨‍🎓 About Me :
   I am an computer science student who has always been passionate about programming,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"     width="30"> from Italy.
   - 🔭 My goals: Artificial Intelligence , Security
@@ -34,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/latex/latex-original.svg" title="LaTex" **alt="LaTex" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTex" **alt="LaTex" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" **alt="Apache" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>
@@ -45,17 +44,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
-<!--
-**FanelliMarco/FanelliMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FanelliMarco&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanelliMarco&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
