@@ -14,6 +14,10 @@
   <div align="center">
     <img src="./images/donut.gif" width="600" height="300"/>
   </div>
+  ---
+  
+  ### :woman_technologist: About Me :
+  I am an computer science student who has always been passionate about programming,<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"     width="30"> from Italy.
 </div>
 
 
