@@ -59,4 +59,4 @@ fn test_wide_characters() {
 /// grapheme clusters
 fn test_grapheme_clusters() {
     process_reverse_case("uüu", "uüu");
-}git config --global user.email "youremail@yourdomain.com"
+}
