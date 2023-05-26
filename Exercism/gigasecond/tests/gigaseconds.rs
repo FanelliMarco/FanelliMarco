@@ -15,25 +15,21 @@ fn test_date() {
     assert_eq!(gigasecond::after(start_date), dt(2043, 1, 1, 1, 46, 40));
 }
 #[test]
-#[ignore]
 fn test_another_date() {
     let start_date = dt(1977, 6, 13, 0, 0, 0);
     assert_eq!(gigasecond::after(start_date), dt(2009, 2, 19, 1, 46, 40));
 }
 #[test]
-#[ignore]
 fn test_third_date() {
     let start_date = dt(1959, 7, 19, 0, 0, 0);
     assert_eq!(gigasecond::after(start_date), dt(1991, 3, 27, 1, 46, 40));
 }
 #[test]
-#[ignore]
 fn test_datetime() {
     let start_date = dt(2015, 1, 24, 22, 0, 0);
     assert_eq!(gigasecond::after(start_date), dt(2046, 10, 2, 23, 46, 40));
 }
 #[test]
-#[ignore]
 fn test_another_datetime() {
     let start_date = dt(2015, 1, 24, 23, 59, 59);
     assert_eq!(gigasecond::after(start_date), dt(2046, 10, 3, 1, 46, 39));
