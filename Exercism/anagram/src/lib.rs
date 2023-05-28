@@ -12,7 +12,7 @@ pub fn anagrams_for<'a>(word: &str, possible_anagrams: &'a [&str]) -> HashSet<&'
             let candidate = candidate.to_lowercase();
             candidate != word && hash_map_for(&candidate) == word_hash_map
         })
-        .map(|x| *x)
+        .cloned()
         .collect::<HashSet<&str>>()
 }
 
